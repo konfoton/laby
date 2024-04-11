@@ -1,0 +1,26 @@
+
+******************* ETAP 1 *******************
+
+Aragorn (HP: 9/9)
+Boromir (HP: 10/10)
+Legolas (HP: 6/6) - class: Archer
+
+Aragorn (HP: 9/9)
+Boromir (HP: 0/10)
+Legolas (HP: 6/6) - class: Archer
+
+Aragorn (HP: 7/9)
+Boromir (HP: 10/10)
+Legolas (HP: 2/6) - class: Archer
+
+
+******************* ETAP 2 *******************
+
+Gandalf (HP: 8/8)- class: Wizard, prepared spells:
+Saruman (HP: 12/12)- class: Wizard, prepared spells:
+
+Gandalf (HP: 8/8)- class: Wizard, prepared spells: Fireball Fireball
+Saruman (HP: 12/12)- class: Wizard, prepared spells: Fireball DrainLife DrainLife
+
+Gandalf (HP: 2/8)- class: Wizard, prepared spells:
+Saruman (HP: 1/12)- class: Wizard, prepared spells: Fireball
